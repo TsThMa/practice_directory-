@@ -1,0 +1,12 @@
+GCC - GNU Compiler Connection
+
+You have variable names, c-intrinsic data types, and  c-modifiers
+
+Variable names, are words in c -programming that have thhe following sets of rules. They must begin with a letter (e.g 'a') or underscore '_', but cannot begin with a number (e.g. '3') and they cannot contain any special characters (@,# etc.) or spaces between words (e.g. "_the sum of").
+
+C-intrinsic data types include four types, namely char (character), int (integer), float (floating point) and double (extended precision float). "char" is  a single letter or number like 'c' or '2', which occupies 1 byte of space. "int" are numbers and come in three formats: decimal (like the number 16), octal (like '020', where the number is prefaced by zero) and hex (like '0x10', where theh number is pefaced by zero x). This intrinsic type occupies 4 bytes. We then have the "float type," which takes up 4 bytes as well an example of his would be 0,00225, which can also be written in scientif noattion as: 2.25e-3. Lastly, we have "double" type, which occupies 8 bytes of space. Unless stated otherwise (e.g 3.14f (which has the f after the number)), floating point literals (*"literals are the constant values assigned to constant variables" and thus "represent the fixed values that cannot be modified".) are assumed to be "double".
+
+sources: 
+1. learning to program in C-Part 01 - https://www.youtube.com/watch?v=rk2fK2IIiiQ
+2. "What are literals?" - https://www.javatpoint.com/literals-in-c#:~:text=Literals%20are%20the%20constant%20values,10%20is%20an%20integer%20literal.
+3. "C-variables" - https://www.w3schools.com/c/c_variables.php
