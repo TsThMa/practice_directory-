@@ -4,3 +4,17 @@ The limits.h header determines the various properties of the various variable ty
 - check macros defined in this header: https://www.tutorialspoint.com/c_standard_library/limits_h.htm
 - they are implementation specific and defined by "#define" directive.
 
+If Statements in C
+- TRUE statement -> operator returns 1 e.g check 2 == 2, evaluates to 1.
+- FALSE statement -> operator returns 0 e.g chec 0 == 2, evaluates to 0.
+- SIX relational operators include:
+-  '>'  "greater than" (5 > 4 is TRUE)
+-  '<'  "less than" (4 < 5 is TRUE)
+-  '>=' "greater than or equal to" (4 >= 4 is TRUE)
+-  '<=' "less than or equal to" (3 <= 4 is TRUE)
+-  '==' "is equal to" (5 == 5 is TRUE)
+-  '!=' "not equal to" (5!= 4 is TRUE)
+
+sources:
+1.  https://www.tutorialspoint.com/c_standard_library/limits_h.htm   
+2.  https://www.cprogramming.com/tutorial/c/lesson2.html
