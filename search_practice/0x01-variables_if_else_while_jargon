@@ -1,0 +1,6 @@
+C -library - <limits.h>
+
+The limits.h header determines the various properties of the various variable types.
+- check macros defined in this header: https://www.tutorialspoint.com/c_standard_library/limits_h.htm
+- they are implementation specific and defined by "#define" directive.
+
