@@ -1,0 +1,10 @@
+1. Nested while loops
+- When variables are declared:
+- they should only be initialized right before they are used in their respective loop.
+- In the case of nested loops,
+- where, for instance, variables i and j are declared (as 'int' type in this case):
+- If i is the first variable to be used in the first loop, you will initialize it first (assigned a value).
+- Then just before the second loop is made, j will be initialized.
+
+2. C -functions
+
