@@ -8,3 +8,29 @@
 
 2. C -functions
 
+- Every C-function has at least one function "main()"
+- The basic structure of a function is: return_type function_name(parameter list)
+	- where:
+		1. the "return_type": is the data type of the value returned
+		2. the "function_name": is the actual name of the function
+		3. the "parameter list": is the type, order and number of the parameters
+					of a function.
+3. Calling a function
+
+- You call a function, in order to use it.
+- It can be called in 2 ways:
+	1. Call by value:
+		- check: https://www.tutorialspoint.com/cprogramming/c_function_call_by_value.htm
+	2. Call by reference:
+		- check: https://www.tutorialspoint.com/cprogramming/c_function_call_by_reference.htm
+P.S
+- If you run a program in C and it returns the error message:
+- ‘undefined reference to main’, one of two mistakes were made by the programmer:
+1. The main() was not included in the programme
+2. The "main()" may have been misspelled (e.g "mian" instead of "main").
+
+Sources:
+
+1. Nested loops: https://www.youtube.com/watch?v=Z3iGeQ1gIss
+2. Initializing a variable: https://www.inf.unibz.it/~calvanese/teaching/04-05-ip/lecture-notes/uni02/node18.html#:~:text=Initializing%20a%20variable%20means%20specifying,is%20assigned%20such%20a%20value
+3.'undefined reference to main' error: https://www.includehelp.com/c-programs/undefined-reference-to-main-error-in-c.aspx
